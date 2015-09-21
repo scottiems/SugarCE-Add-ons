@@ -215,6 +215,7 @@ This is your repository! Everyone is welcome to be involved by creating listings
 * [AlineaSol Sales](https://www.alineasol.com/en/sugarapps/sales) - AlineaSol Sales provides dashlet enhancements for date management. Similar date filtering as in AlineaSol reports (only one filter supported here though). Supports natural and fiscal years.
 * [SugarTilkee - bringing Tilkee and SugarCRM together](https://github.com/timtilkee/tilkee-sugarcrm) - Tilkee is a simple SAAS tool used by sales teams to raise their closing rate, by tracking business proposal and forecast sales.
 * [Address Lookup - get more accurate addresses](https://www.sugaroutfitters.com/addons/address-lookup) on SugarOutfitters.com. 
+* [SUGARCRM ASTERISK CTI PHONE EXTENSION](http://www.techextension.com/crm-sugarcrm-suitecrm-asterisk-click-to-call-integration) Supports all sugarcrm or suitecrm  and asterisk based server like freePBX, Elastix, Vici Dail etc. 
 
 ## Security
 * [SecuritySuite - Teams for SugarCRM CE](https://www.sugaroutfitters.com/addons/securitysuite) on SugarOutfitters.com. 
